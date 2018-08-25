@@ -1,0 +1,4 @@
+USE Diablo1
+GO
+
+CREATE TRIGGER
